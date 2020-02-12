@@ -1,0 +1,12 @@
+{
+  "name": "axios-rxjs-di-service",
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:jaybekster/axios-rxjs-di-service.git",
+  "author": "Mikhail Tsyplakov <jaybekster@gmail.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "axios": "^0.19.2",
+    "rxjs": "^6.5.4"
+  }
+}
